@@ -16,3 +16,5 @@ There are two versions;
 Common features:
 * Data cleaning features (uses .strip and re.sub to remove whitespace and replace html entities). These data cleaning features are defensive, and use try/except.
 
+Room to grow:
+* A way to check whether each item is still on sale would be very useful, but I feel it would require other libraries.
